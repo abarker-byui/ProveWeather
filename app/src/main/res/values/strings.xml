@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prove - Weather</string>
+    <string name="city_label">City</string>
+    <string name="forecast_label">Weather Forecast</string>
+    <string name="temperature_label">Current Temperature</string>
+    <string name="temperature_format">The current temperature in %s is %.1f&#176;F</string>
+</resources>
